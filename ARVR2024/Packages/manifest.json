@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.easyar.sense": "file:../Assets/EasyARPackage/com.easyar.sense-4.6.3+3029.cb846598.tgz",
     "com.unity.collab-proxy": "2.0.0",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.18",
